@@ -1,0 +1,2 @@
+C:\Users\netre\source\repos\Visual Studio 2019\Web\C#\GameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.AssemblyReference.cache
+C:\Users\netre\source\repos\Visual Studio 2019\Web\C#\GameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.CoreCompileInputs.cache

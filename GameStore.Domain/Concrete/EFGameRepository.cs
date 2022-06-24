@@ -13,7 +13,7 @@ namespace GameStore.Domain.Concrete
             get { return context.Games; }
         }
 
-        public void SaveGame(Game game)
+       public void SaveGame(Game game)
         {
             if (game.GameId == 0)
                 context.Games.Add(game);

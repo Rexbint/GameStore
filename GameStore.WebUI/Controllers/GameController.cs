@@ -54,6 +54,6 @@ namespace GameStore.WebUI.Controllers
             {
                 return null;
             }
-        }
+    }
     }
 }
